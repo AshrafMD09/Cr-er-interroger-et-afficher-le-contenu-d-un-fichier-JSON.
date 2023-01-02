@@ -1,0 +1,78 @@
+:root{
+    --maincolor : bisque;
+    --bg-color : #190227 ;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--bg-color) !important;
+}
+
+.navbar-brand{
+    font-family: 'Sevillana', cursive;
+    color: var(--maincolor) !important;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    
+}
+
+.nav-link{
+    color: whitesmoke !important;
+}
+
+.landing{
+    background-color: var(--bg-color);
+    font-family: 'Sevillana', cursive;
+    height: 30vh;
+}
+
+h1{
+    font-size: 50px !important;
+    color: var(--maincolor) !important;
+    /* font-weight: bold !important; */
+}
+
+.div-tbl{
+    
+    background-color: var(--bg-color);
+    margin: 2.5% 0% !important;
+    height: 100vh;
+}
+
+table{
+    width: 95% !important;
+    margin: 0% 2.5%;
+    background-color: #0b0211 !important;
+}
+
+th{
+    padding: 1% 0% !important;
+
+}
+
+td{
+    padding: 1% 0.25% !important;
+}
+.fa-solid{
+    color: bisque;
+    cursor: pointer;
+}
+
+li{
+    text-align: left !important;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    table {
+        font-size: 55% ;
+    }
+    img{
+        width: 50px;
+    }
+    th{
+        font-size: 90%;
+    }
+
+}

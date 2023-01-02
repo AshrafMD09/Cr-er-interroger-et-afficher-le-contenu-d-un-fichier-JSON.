@@ -1,0 +1,104 @@
+[{
+    "Poster" : "img/interstellar.jpg",
+    "Titre" : "interstellar",
+    "Réalisateur" : "Christopher Nolan",
+    "Durée" : 169 ,
+    "année" : 2014,
+    "Festivals" : ["Aesthetica  Film ","Austin Film "] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Matthew",
+        "Prénom" : "McConaughey",
+        "Nationalité" : "American"
+    }]
+},
+
+{
+    "Poster" : "img/intothewild.jpg",
+    "Titre" : "into the Wild",
+    "Réalisateur" : "Sean Penn",
+    "Durée" : 148 ,
+    "année" : 2007,
+    "Festivals" : ["Austin Film "] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Emile",
+        "Prénom" : "Hirsch",
+        "Nationalité" : "American"
+    }]
+},
+
+{
+    "Poster" : "img/inception.jpg",
+    "Titre" : "inception",
+    "Réalisateur" : "Christopher Nolan",
+    "Durée" : 148 ,
+    "année" : 2010,
+    "Festivals" : ["Austin Revolution  ","Atlanta Film "] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Leonardo",
+        "Prénom" : "DiCaprio",
+        "Nationalité" : "American"
+    }]
+},
+
+{
+    "Poster" : "img/shutterisland.jpg",
+    "Titre" : "shutter Island",
+    "Réalisateur" : "Martin Scorsese",
+    "Durée" : 138 ,
+    "année" : 2010,
+    "Festivals" : ["American Festival ","Ann Arbor Film "] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Leonardo",
+        "Prénom" : "DiCaprio",
+        "Nationalité" : "American"
+    }]
+},
+
+{
+    "Poster" : "img/mononoke.jpg",
+    "Titre" : "princess Mononoke",
+    "Réalisateur" : "Hayao Miyazaki",
+    "Durée" : 133 ,
+    "année" : 1997,
+    "Festivals" : ["Tokyo Films" , "Festival of Japan"] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Yuriko",
+        "Prénom" : "Ishida",
+        "Nationalité" : "Japanese"
+    }]
+},
+{
+    "Poster" : "img/venom.jpg",
+    "Titre" : "venom",
+    "Réalisateur" : "Martin Scorsese",
+    "Durée" : 112 ,
+    "année" : 2018,
+    "Festivals" : ["American Festival"] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Tom",
+        "Prénom" : "Hardy",
+        "Nationalité" : "American"
+    }]
+},
+{
+    "Poster" : "img/legend.jpg",
+    "Titre" : "legend",
+    "Réalisateur" : "Martin Scorsese",
+    "Durée" : 131 ,
+    "année" : 2015,
+    "Festivals" : ["American Festival","World Films "] ,
+    "Acteurs" : 
+    [{
+        "Nom" : "Tom",
+        "Prénom" : "Hardy",
+        "Nationalité" : "American"
+    }]
+}
+]
+
